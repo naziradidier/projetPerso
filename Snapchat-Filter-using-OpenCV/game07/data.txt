@@ -1,0 +1,9 @@
+computer
+mouse
+keyboard
+keypad
+phone
+screen
+chair
+ipad
+iphone
