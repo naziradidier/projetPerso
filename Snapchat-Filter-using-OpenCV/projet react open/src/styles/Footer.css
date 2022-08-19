@@ -1,0 +1,50 @@
+.lmj-footer {
+	color: black;
+	padding: 32px;
+	border-top: solid 3px black;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	/*font-weight: 500;*/
+	align-items: baseline;
+}
+
+.lmj-footer-elem {
+	margin-bottom: 10px;
+}
+
+.about{
+	
+}
+
+.lmj-footer > div { width: 50%; }
+
+.form-element{
+	margin-bottom: 15px;
+	display: flex;
+}
+.form-element label{
+	margin-right: 10px;
+	width: 85px;
+}
+.form-element .form-input{
+	border-radius: 10px;
+	padding: 5px;
+	margin-right: 5px;
+	width: 100%;
+}
+.form-element textarea{
+	width: 100%;
+}
+.form-element button{
+	background-color: #31b572;
+	border: none;
+	color: #fff;
+	padding: 10px 15px;
+	border-radius: 10px;
+}
+.justify-end{
+	justify-content: end;
+}
+.mr-0{ margin-right: 0 !important; }
