@@ -1,0 +1,12 @@
+exercice 1: 1) ecrire une fonction qui calcule le factoriel d'un nombre n donné via un console
+a) en utilisant la fonction recursive*
+b) en utilisant la fonction no recursive
+2)Appeler ce deux fonctions  dans la fonction principale .... on donne n appartient a N
+
+
+n! = n(n-1)!
+0!=1
+1!=1
+
+exemple:
+4! = 4(3)!=4*3*2*1=24
